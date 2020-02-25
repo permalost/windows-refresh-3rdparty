@@ -18,6 +18,7 @@ choco install -y vscode-docker
 choco install -y vscode-eslint
 choco install -y vscode-settingssync
 choco install -y vscode-yaml
+choco install -y vscode-spring-initializr
 choco install -y openjdk
 
 :: Games

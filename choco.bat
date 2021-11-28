@@ -23,8 +23,9 @@ choco install -y openjdk
 
 :: Games
 choco install -y steam
+choco install -y epicgameslauncher
 
 :: Other
 choco install -y bitwarden
 choco install -y dropbox
-
+choco install -y f.lux

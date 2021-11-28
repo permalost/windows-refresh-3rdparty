@@ -20,12 +20,20 @@ choco install -y vscode-settingssync
 choco install -y vscode-yaml
 choco install -y vscode-spring-initializr
 choco install -y openjdk
+choco install -y putty.install
+:: choco install nvidia-display-driver
+:: choco install awscli
+:: choco install wireshark
 
 :: Games
 choco install -y steam
 choco install -y epicgameslauncher
 
+:: Entertainment
+choco install -y vlc
+
 :: Other
 choco install -y bitwarden
 choco install -y dropbox
 choco install -y f.lux
+choco install -y windirstat

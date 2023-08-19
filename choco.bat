@@ -48,6 +48,7 @@ choco install -y epicgameslauncher
 
 :: Projects
 choco install -y inkscape
+choco install -y lightburn
 
 
 :: Entertainment
@@ -57,9 +58,10 @@ choco install -y vlc
 :: - Filesharing
 choco install -y dropbox
 choco install -y nextcloud-client
+
 :: - misc
 choco install -y f.lux
-choco install -y windirstat
+choco install -y treesizefree
 choco install -y nvidia-display-driver
 choco install -y logitech-webcam-software
 choco install -y lghub
